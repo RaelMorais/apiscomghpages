@@ -1,0 +1,170 @@
+{
+  "seasons": [
+    {
+      "season": 2015,
+      "teams": [
+        { "name": "Mercedes AMG Petronas Formula One Team", "nationality": "Germany", "logotype_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mercedes-AMG_Petronas_F1_Team_logo_2015.svg" },
+        { "name": "Scuderia Ferrari", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Scuderia_Ferrari_logo.svg/1280px-Scuderia_Ferrari_logo.svg.png" },
+        { "name": "Red Bull Racing", "nationality": "Austria", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Red_Bull_Racing_logo_2015.svg/1024px-Red_Bull_Racing_logo_2015.svg.png" },
+        { "name": "Williams Martini Racing", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Williams_Martini_Racing_logo.svg/1024px-Williams_Martini_Racing_logo.svg.png" },
+        { "name": "Sahara Force India F1 Team", "nationality": "India", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Sahara_Force_India_F1_Team_logo.svg" },
+        { "name": "Lotus F1 Team", "nationality": "United Kingdom", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Lotus_F1_Team_logo.png" },
+        { "name": "Scuderia Toro Rosso", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/7/77/Scuderia_Toro_Rosso_logo_2017.png" },
+        { "name": "Sauber F1 Team", "nationality": "Switzerland", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/5/52/Sauber_F1_Team_logo.svg" },
+        { "name": "McLaren Honda", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/McLaren_Honda_logo_2015.svg/1024px-McLaren_Honda_logo_2015.svg.png" },
+        { "name": "Manor Marussia F1 Team", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Manor_Marussia_F1_Team_logo_2015.png" }
+      ]
+    },
+    {
+      "season": 2016,
+      "teams": [
+        { "name": "Mercedes AMG Petronas Formula One Team", "nationality": "Germany", "logotype_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mercedes-AMG_Petronas_F1_Team_logo_2015.svg" },
+        { "name": "Scuderia Ferrari", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Scuderia_Ferrari_logo.svg/1280px-Scuderia_Ferrari_logo.svg.png" },
+        { "name": "Red Bull Racing", "nationality": "Austria", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/f/f9/Red_Bull_Racing_logo_2016.png" },
+        { "name": "Williams Martini Racing", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Williams_Martini_Racing_logo.svg/1024px-Williams_Martini_Racing_logo.svg.png" },
+        { "name": "Sahara Force India F1 Team", "nationality": "India", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Sahara_Force_India_F1_Team_logo.svg" },
+        { "name": "McLaren Honda", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/McLaren_Honda_logo_2015.svg/1024px-McLaren_Honda_logo_2015.svg.png" },
+        { "name": "Scuderia Toro Rosso", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/7/77/Scuderia_Toro_Rosso_logo_2017.png" },
+        { "name": "Haas F1 Team", "nationality": "USA", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Haas_F1_Team_logo.png" },
+        { "name": "Renault Sport Formula One Team", "nationality": "France", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Renault_Sport_F1_Team_logo_2016.svg/1024px-Renault_Sport_F1_Team_logo_2016.svg.png" },
+        { "name": "Sauber F1 Team", "nationality": "Switzerland", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/5/52/Sauber_F1_Team_logo.svg" },
+        { "name": "Manor Racing MRT", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/b/b2/Manor_Racing_MRT_logo.png" }
+      ]
+    },
+    {
+      "season": 2017,
+      "teams": [
+        { "name": "Mercedes AMG Petronas Formula One Team", "nationality": "Germany", "logotype_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mercedes-AMG_Petronas_F1_Team_logo_2015.svg" },
+        { "name": "Scuderia Ferrari", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Scuderia_Ferrari_logo.svg/1280px-Scuderia_Ferrari_logo.svg.png" },
+        { "name": "Red Bull Racing", "nationality": "Austria", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/8/87/Red_Bull_Racing_logo_2017.png" },
+        { "name": "Force India F1 Team", "nationality": "India", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Force_India_F1_Team_logo_2017.svg/1024px-Force_India_F1_Team_logo_2017.svg.png" },
+        { "name": "Williams Martini Racing", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Williams_Martini_Racing_logo.svg/1024px-Williams_Martini_Racing_logo.svg.png" },
+        { "name": "McLaren Honda", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/McLaren_F1_Team_2017_logo.svg/1024px-McLaren_F1_Team_2017_logo.svg.png" },
+        { "name": "Scuderia Toro Rosso", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/7/77/Scuderia_Toro_Rosso_logo_2017.png" },
+        { "name": "Renault Sport Formula One Team", "nationality": "France", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Renault_Sport_F1_Team_logo_2017.svg/1024px-Renault_Sport_F1_Team_logo_2017.svg.png" },
+        { "name": "Haas F1 Team", "nationality": "USA", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Haas_F1_Team_logo.png" },
+        { "name": "Sauber F1 Team", "nationality": "Switzerland", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/5/52/Sauber_F1_Team_logo.svg" }
+      ]
+    },
+    {
+      "season": 2018,
+      "teams": [
+        { "name": "Mercedes AMG Petronas Motorsport", "nationality": "Germany", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/d/d8/Mercedes-AMG_Petronas_Motorsport_logo_2018.svg" },
+        { "name": "Scuderia Ferrari", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Scuderia_Ferrari_logo.svg/1280px-Scuderia_Ferrari_logo.svg.png" },
+        { "name": "Aston Martin Red Bull Racing", "nationality": "Austria", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/5/50/Aston_Martin_Red_Bull_Racing_logo_2018.svg" },
+        { "name": "Renault Sport Formula One Team", "nationality": "France", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Renault_Sport_F1_Team_logo_2017.svg/1024px-Renault_Sport_F1_Team_logo_2017.svg.png" },
+        { "name": "Haas F1 Team", "nationality": "USA", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Haas_F1_Team_logo.png" },
+        { "name": "McLaren F1 Team", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/McLaren_F1_Team_logo_2018.svg/1024px-McLaren_F1_Team_logo_2018.svg.png" },
+        { "name": "Sahara Force India F1 Team", "nationality": "India", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/f/f6/Sahara_Force_India_F1_Team_logo.svg" },
+        { "name": "Scuderia Toro Rosso", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/7/77/Scuderia_Toro_Rosso_logo_2017.png" },
+        { "name": "Sauber F1 Team", "nationality": "Switzerland", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/5/52/Sauber_F1_Team_logo.svg" },
+        { "name": "Williams Martini Racing", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Williams_Martini_Racing_logo.svg/1024px-Williams_Martini_Racing_logo.svg.png" }
+      ]
+    },
+    {
+      "season": 2019,
+      "teams": [
+        { "name": "Mercedes AMG Petronas Motorsport", "nationality": "Germany", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/d/d8/Mercedes-AMG_Petronas_Motorsport_logo_2018.svg" },
+        { "name": "Scuderia Ferrari", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Scuderia_Ferrari_logo.svg/1280px-Scuderia_Ferrari_logo.svg.png" },
+        { "name": "Aston Martin Red Bull Racing", "nationality": "Austria", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/5/50/Aston_Martin_Red_Bull_Racing_logo_2018.svg" },
+        { "name": "McLaren F1 Team", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/McLaren_F1_Team_logo_2018.svg/1024px-McLaren_F1_Team_logo_2018.svg.png" },
+        { "name": "Renault F1 Team", "nationality": "France", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/4/41/Renault_F1_Team_logo.png" },
+        { "name": "SportPesa Racing Point F1 Team", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/9/91/SportPesa_Racing_Point_F1_Team_logo.png" },
+        { "name": "Scuderia Toro Rosso", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/7/77/Scuderia_Toro_Rosso_logo_2017.png" },
+        { "name": "Alfa Romeo Racing", "nationality": "Switzerland", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/a/ad/Alfa_Romeo_Racing_2019_logo.png" },
+        { "name": "Haas F1 Team", "nationality": "USA", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Haas_F1_Team_logo.png" },
+        { "name": "Williams Racing", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Williams_Racing_2020_logo.svg" }
+      ]
+    },
+    {
+      "season": 2020,
+      "teams": [
+        { "name": "Mercedes AMG Petronas Formula One Team", "nationality": "Germany", "logotype_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mercedes-AMG_Petronas_F1_Team_logo_2015.svg" },
+        { "name": "Scuderia Ferrari", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Scuderia_Ferrari_logo.svg/1280px-Scuderia_Ferrari_logo.svg.png" },
+        { "name": "Aston Martin Red Bull Racing", "nationality": "Austria", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/5/50/Aston_Martin_Red_Bull_Racing_logo_2018.svg" },
+        { "name": "McLaren F1 Team", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/McLaren_F1_Team_logo_2018.svg/1024px-McLaren_F1_Team_logo_2018.svg.png" },
+        { "name": "Renault DP World F1 Team", "nationality": "France", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Renault_DP_World_F1_Team_logo_2020.svg/1024px-Renault_DP_World_F1_Team_logo_2020.svg.png" },
+        { "name": "Racing Point F1 Team", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/BWT_Racing_Point_logo_2020.png/1024px-BWT_Racing_Point_logo_2020.png" },
+        { "name": "Scuderia AlphaTauri", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Scuderia_AlphaTauri_logo.svg/1024px-Scuderia_AlphaTauri_logo.svg.png" },
+        { "name": "Alfa Romeo Racing ORLEN", "nationality": "Switzerland", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Alfa_Romeo_Racing_Orlen_logo_2020.svg/1024px-Alfa_Romeo_Racing_Orlen_logo_2020.svg.png" },
+        { "name": "Haas F1 Team", "nationality": "USA", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Haas_F1_Team_logo.png" },
+        { "name": "Williams Racing", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Williams_Racing_2020_logo.svg" }
+      ]
+    },
+    {
+      "season": 2021,
+      "teams": [
+        { "name": "Mercedes AMG Petronas Formula One Team", "nationality": "Germany", "logotype_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mercedes-AMG_Petronas_F1_Team_logo_2015.svg" },
+        { "name": "Red Bull Racing Honda", "nationality": "Austria", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/c/ce/Red_Bull_Racing_Honda_logo_2021.svg" },
+        { "name": "Scuderia Ferrari", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Scuderia_Ferrari_logo.svg/1280px-Scuderia_Ferrari_logo.svg.png" },
+        { "name": "McLaren F1 Team", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/McLaren_F1_Team_logo_2018.svg/1024px-McLaren_F1_Team_logo_2018.svg.png" },
+        { "name": "Alpine F1 Team", "nationality": "France", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Alpine_F1_Team_logo_2021.svg/1024px-Alpine_F1_Team_logo_2021.svg.png" },
+        { "name": "AlphaTauri Honda", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Scuderia_AlphaTauri_logo.svg/1024px-Scuderia_AlphaTauri_logo.svg.png" },
+        { "name": "Aston Martin Cognizant F1 Team", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Aston_Martin_Cognizant_F1_Team_logo.svg/1024px-Aston_Martin_Cognizant_F1_Team_logo.svg.png" },
+        { "name": "Alfa Romeo Racing ORLEN", "nationality": "Switzerland", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Alfa_Romeo_Racing_Orlen_logo_2020.svg/1024px-Alfa_Romeo_Racing_Orlen_logo_2020.svg.png" },
+        { "name": "Williams Racing", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Williams_Racing_2020_logo.svg" },
+        { "name": "Haas F1 Team", "nationality": "USA", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Haas_F1_Team_logo.png" }
+      ]
+    },
+    {
+      "season": 2022,
+      "teams": [
+        { "name": "Oracle Red Bull Racing", "nationality": "Austria", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/0/05/Oracle_Red_Bull_Racing_logo_2022.svg" },
+        { "name": "Scuderia Ferrari", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Scuderia_Ferrari_logo.svg/1280px-Scuderia_Ferrari_logo.svg.png" },
+        { "name": "Mercedes AMG Petronas F1 Team", "nationality": "Germany", "logotype_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mercedes-AMG_Petronas_F1_Team_logo_2015.svg" },
+        { "name": "McLaren F1 Team", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/McLaren_F1_Team_logo_2018.svg/1024px-McLaren_F1_Team_logo_2018.svg.png" },
+        { "name": "Alpine F1 Team", "nationality": "France", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Alpine_F1_Team_logo_2021.svg/1024px-Alpine_F1_Team_logo_2021.svg.png" },
+        { "name": "AlphaTauri", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Scuderia_AlphaTauri_logo.svg/1024px-Scuderia_AlphaTauri_logo.svg.png" },
+        { "name": "Aston Martin Aramco Cognizant F1 Team", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Aston_Martin_Aramco_Cognizant_F1_Team_logo_2022.svg/1024px-Aston_Martin_Aramco_Cognizant_F1_Team_logo_2022.svg.png" },
+        { "name": "Alfa Romeo F1 Team ORLEN", "nationality": "Switzerland", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Alfa_Romeo_Racing_Orlen_logo_2020.svg/1024px-Alfa_Romeo_Racing_Orlen_logo_2020.svg.png" },
+        { "name": "Williams Racing", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Williams_Racing_2020_logo.svg" },
+        { "name": "Haas F1 Team", "nationality": "USA", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/f/f8/Haas_F1_Team_logo.png" }
+      ]
+    },
+    {
+      "season": 2023,
+      "teams": [
+        { "name": "Oracle Red Bull Racing", "nationality": "Austria", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/0/05/Oracle_Red_Bull_Racing_logo_2022.svg" },
+        { "name": "Mercedes AMG Petronas F1 Team", "nationality": "Germany", "logotype_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mercedes-AMG_Petronas_F1_Team_logo_2015.svg" },
+        { "name": "Scuderia Ferrari", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Scuderia_Ferrari_logo.svg/1280px-Scuderia_Ferrari_logo.svg.png" },
+        { "name": "McLaren F1 Team", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/McLaren_F1_Team_logo_2018.svg/1024px-McLaren_F1_Team_logo_2018.svg.png" },
+        { "name": "Alpine F1 Team", "nationality": "France", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Alpine_F1_Team_logo_2021.svg/1024px-Alpine_F1_Team_logo_2021.svg.png" },
+        { "name": "Scuderia AlphaTauri", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Scuderia_AlphaTauri_logo.svg/1024px-Scuderia_AlphaTauri_logo.svg.png" },
+        { "name": "Aston Martin Aramco Cognizant F1 Team", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Aston_Martin_Aramco_Cognizant_F1_Team_logo_2022.svg/1024px-Aston_Martin_Aramco_Cognizant_F1_Team_logo_2022.svg.png" },
+        { "name": "Alfa Romeo F1 Team Stake", "nationality": "Switzerland", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/b/b3/Alfa_Romeo_F1_Team_Stake_Logo.svg" },
+        { "name": "Williams Racing", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Williams_Racing_2020_logo.svg" },
+        { "name": "MoneyGram Haas F1 Team", "nationality": "USA", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/MoneyGram_Haas_F1_Team_logo.svg/1024px-MoneyGram_Haas_F1_Team_logo.svg.png" }
+      ]
+    },
+    {
+      "season": 2024,
+      "teams": [
+        { "name": "Oracle Red Bull Racing", "nationality": "Austria", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/0/05/Oracle_Red_Bull_Racing_logo_2022.svg" },
+        { "name": "Scuderia Ferrari", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Scuderia_Ferrari_logo.svg/1280px-Scuderia_Ferrari_logo.svg.png" },
+        { "name": "Mercedes AMG Petronas F1 Team", "nationality": "Germany", "logotype_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mercedes-AMG_Petronas_F1_Team_logo_2015.svg" },
+        { "name": "McLaren F1 Team", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/McLaren_F1_Team_logo_2018.svg/1024px-McLaren_F1_Team_logo_2018.svg.png" },
+        { "name": "Aston Martin Aramco Cognizant F1 Team", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Aston_Martin_Aramco_Cognizant_F1_Team_logo_2022.svg/1024px-Aston_Martin_Aramco_Cognizant_F1_Team_logo_2022.svg.png" },
+        { "name": "Alpine F1 Team", "nationality": "France", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Alpine_F1_Team_logo_2021.svg/1024px-Alpine_F1_Team_logo_2021.svg.png" },
+        { "name": "Visa Cash App RB F1 Team", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Visa_Cash_App_RB_F1_Team_logo.svg/1024px-Visa_Cash_App_RB_F1_Team_logo.svg.png" },
+        { "name": "Stake F1 Team Kick Sauber", "nationality": "Switzerland", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Stake_F1_Team_Kick_Sauber_logo.svg/1024px-Stake_F1_Team_Kick_Sauber_logo.svg.png" },
+        { "name": "Williams Racing", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Williams_Racing_2020_logo.svg" },
+        { "name": "MoneyGram Haas F1 Team", "nationality": "USA", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/MoneyGram_Haas_F1_Team_logo.svg/1024px-MoneyGram_Haas_F1_Team_logo.svg.png" }
+      ]
+    },
+    {
+      "season": 2025,
+      "teams": [
+        { "name": "McLaren Racing", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/McLaren_F1_Team_logo_2018.svg/1024px-McLaren_F1_Team_logo_2018.svg.png" },
+        { "name": "Scuderia Ferrari", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Scuderia_Ferrari_logo.svg/1280px-Scuderia_Ferrari_logo.svg.png" },
+        { "name": "Red Bull Racing", "nationality": "Austria", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/0/05/Oracle_Red_Bull_Racing_logo_2022.svg" },
+        { "name": "Mercedes AMG F1 Team", "nationality": "Germany", "logotype_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mercedes-AMG_Petronas_F1_Team_logo_2015.svg" },
+        { "name": "Aston Martin Aramco F1 Team", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Aston_Martin_Aramco_F1_Team_logo.svg/1024px-Aston_Martin_Aramco_F1_Team_logo.svg.png" },
+        { "name": "Williams Racing", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/9/90/Williams_Racing_2020_logo.svg" },
+        { "name": "Kick Sauber F1 Team", "nationality": "Switzerland", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Stake_F1_Team_Kick_Sauber_logo.svg/1024px-Stake_F1_Team_Kick_Sauber_logo.svg.png" },
+        { "name": "Alpine F1 Team", "nationality": "France", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Alpine_F1_Team_logo_2021.svg/1024px-Alpine_F1_Team_logo_2021.svg.png" },
+        { "name": "MoneyGram Haas F1 Team", "nationality": "USA", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/MoneyGram_Haas_F1_Team_logo.svg/1024px-MoneyGram_Haas_F1_Team_logo.svg.png" },
+        { "name": "Visa Cash App Racing Bulls F1 Team", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Visa_Cash_App_RB_F1_Team_logo.svg/1024px-Visa_Cash_App_RB_F1_Team_logo.svg.png" }
+      ]
+    }
+  ]
+}
