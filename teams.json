@@ -3,7 +3,7 @@
     {
       "season": 2015,
       "teams": [
-        { "name": "Mercedes AMG Petronas Formula One Team", "nationality": "Germany", "logotype_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mercedes-AMG_Petronas_F1_Team_logo_2015.svg" },
+        { "name": "Mercedes AMG Petronas Formula One Team", "nationality": "Germany", "logotype_url": "https://raelmorais.github.io/f1_json_data/img/teams/amg_petronas.png" },
         { "name": "Scuderia Ferrari", "nationality": "Italy", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Scuderia_Ferrari_logo.svg/1280px-Scuderia_Ferrari_logo.svg.png" },
         { "name": "Red Bull Racing", "nationality": "Austria", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Red_Bull_Racing_logo_2015.svg/1024px-Red_Bull_Racing_logo_2015.svg.png" },
         { "name": "Williams Martini Racing", "nationality": "Great Britain", "logotype_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Williams_Martini_Racing_logo.svg/1024px-Williams_Martini_Racing_logo.svg.png" },
