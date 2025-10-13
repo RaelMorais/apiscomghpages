@@ -1,0 +1,332 @@
+{
+  "2015": [
+    {
+      "manufacturer": "Mercedes",
+      "engine_name": "PU106A Hybrid",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-AMG_Petronas_F1_Team_logo.svg"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "engine_name": "059/3",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Scuderia_Ferrari_logo.svg"
+    },
+    {
+      "manufacturer": "Renault",
+      "engine_name": "Energy F1-2014",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Renault_logo_2015.svg"
+    },
+    {
+      "manufacturer": "Honda",
+      "engine_name": "RA615H",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Honda_logo.svg"
+    }
+  ],
+  "2016": [
+    {
+      "manufacturer": "Mercedes",
+      "engine_name": "PU106C Hybrid",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-AMG_Petronas_F1_Team_logo.svg"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "engine_name": "059/4",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Scuderia_Ferrari_logo.svg"
+    },
+    {
+      "manufacturer": "Renault",
+      "engine_name": "Energy F1-2015",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Renault_logo_2015.svg"
+    },
+    {
+      "manufacturer": "Honda",
+      "engine_name": "RA616H",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Honda_logo.svg"
+    }
+  ],
+  "2017": [
+    {
+      "manufacturer": "Mercedes",
+      "engine_name": "PU106D Hybrid",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-AMG_Petronas_F1_Team_logo.svg"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "engine_name": "062/4",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Scuderia_Ferrari_logo.svg"
+    },
+    {
+      "manufacturer": "Renault",
+      "engine_name": "R.E.17",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Renault_logo_2015.svg"
+    },
+    {
+      "manufacturer": "Honda",
+      "engine_name": "RA617H",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Honda_logo.svg"
+    }
+  ],
+  "2018": [
+    {
+      "manufacturer": "Mercedes",
+      "engine_name": "PU106B Hybrid",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-AMG_Petronas_F1_Team_logo.svg"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "engine_name": "063",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Scuderia_Ferrari_logo.svg"
+    },
+    {
+      "manufacturer": "Renault",
+      "engine_name": "R.E.18",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Renault_logo_2015.svg"
+    },
+    {
+      "manufacturer": "Honda",
+      "engine_name": "RA618H",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Honda_logo.svg"
+    }
+  ], 
+  "2019": [
+    {
+      "manufacturer": "Honda",
+      "engine_name": "RA619H",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Honda_logo.svg"
+    },
+    {
+      "manufacturer": "Renault",
+      "engine_name": "R.E.19",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Renault_logo_2015.svg"
+    },
+    {
+      "manufacturer": "Mercedes",
+      "engine_name": "PU106C Hybrid",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-AMG_Petronas_F1_Team_logo.svg"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "engine_name": "063",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Scuderia_Ferrari_logo.svg"
+    }
+  ],
+  "2020": [
+    {
+      "manufacturer": "Honda",
+      "engine_name": "RA620H",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Honda_logo.svg"
+    },
+    {
+      "manufacturer": "Renault",
+      "engine_name": "R.E.20",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Renault_logo_2015.svg"
+    },
+    {
+      "manufacturer": "Mercedes",
+      "engine_name": "PU106D Hybrid",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-AMG_Petronas_F1_Team_logo.svg"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "engine_name": "064",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Scuderia_Ferrari_logo.svg"
+    }
+  ],
+  "2021": [
+    {
+      "manufacturer": "Honda",
+      "engine_name": "RA621H",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Honda_logo.svg"
+    },
+    {
+      "manufacturer": "Renault",
+      "engine_name": "R.E.21",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Renault_logo_2015.svg"
+    },
+    {
+      "manufacturer": "Mercedes",
+      "engine_name": "PU106E Hybrid",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-AMG_Petronas_F1_Team_logo.svg"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "engine_name": "065",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Scuderia_Ferrari_logo.svg"
+    }
+  ],
+  "2022": [
+    {
+      "manufacturer": "Honda RBPT",
+      "engine_name": "RBPT",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Honda_logo.svg"
+    },
+    {
+      "manufacturer": "Renault",
+      "engine_name": "E-Tech R.E.22",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Renault_logo_2015.svg"
+    },
+    {
+      "manufacturer": "Mercedes",
+      "engine_name": "PU106F Hybrid",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-AMG_Petronas_F1_Team_logo.svg"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "engine_name": "066",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Scuderia_Ferrari_logo.svg"
+    }
+  ],
+  "2023": [
+    {
+      "manufacturer": "Honda RBPT",
+      "engine_name": "RBPT",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Honda_logo.svg"
+    },
+    {
+      "manufacturer": "Renault",
+      "engine_name": "E-Tech R.E.23",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Renault_logo_2015.svg"
+    },
+    {
+      "manufacturer": "Mercedes",
+      "engine_name": "PU106G Hybrid",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-AMG_Petronas_F1_Team_logo.svg"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "engine_name": "067",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Scuderia_Ferrari_logo.svg"
+    }
+  ],
+  "2024": [
+    {
+      "manufacturer": "Honda RBPT",
+      "engine_name": "RBPTH003",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Honda_logo.svg"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "engine_name": "065/7",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Scuderia_Ferrari_logo.svg"
+    },
+    {
+      "manufacturer": "Mercedes",
+      "engine_name": "M16 E Performance",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-AMG_Petronas_F1_Team_logo.svg"
+    },
+    {
+      "manufacturer": "Renault",
+      "engine_name": "E-Tech RE25",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Renault_logo_2015.svg"
+    }
+  ],
+  "2025": [
+    {
+      "manufacturer": "Honda RBPT",
+      "engine_name": "RBPTH004",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Honda_logo.svg"
+    },
+    {
+      "manufacturer": "Ferrari",
+      "engine_name": "065/8",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Scuderia_Ferrari_logo.svg"
+    },
+    {
+      "manufacturer": "Mercedes",
+      "engine_name": "M17 E Performance",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mercedes-AMG_Petronas_F1_Team_logo.svg"
+    },
+    {
+      "manufacturer": "Renault",
+      "engine_name": "E-Tech RE26",
+      "displacement": "1.6L",
+      "configuration": "V6 turbo híbrido",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Renault_logo_2015.svg"
+    }
+  ]
+}
