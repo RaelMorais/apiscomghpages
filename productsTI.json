@@ -1,0 +1,144 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "nome": "Suporte Técnico Nível 1",
+      "categoria": "Suporte",
+      "nivel": "Básico",
+      "descricao": "Atendimento inicial ao usuário, solução de problemas simples, configuração de e-mail e acesso."
+    },
+    {
+      "id": 2,
+      "nome": "Suporte Técnico Nível 2",
+      "categoria": "Suporte",
+      "nivel": "Intermediário",
+      "descricao": "Resolução de incidentes mais complexos, instalação de softwares e troubleshooting avançado."
+    },
+    {
+      "id": 3,
+      "nome": "Administração de Servidores Linux",
+      "categoria": "Infraestrutura",
+      "nivel": "Avançado",
+      "descricao": "Gerenciamento de servidores Linux, hardening, monitoramento e otimização de performance."
+    },
+    {
+      "id": 4,
+      "nome": "Administração de Servidores Windows",
+      "categoria": "Infraestrutura",
+      "nivel": "Avançado",
+      "descricao": "Gerenciamento de Active Directory, Group Policy, permissões e serviços Windows Server."
+    },
+    {
+      "id": 5,
+      "nome": "Monitoramento de Rede 24/7",
+      "categoria": "Infraestrutura",
+      "nivel": "Intermediário",
+      "descricao": "Acompanhamento contínuo de equipamentos e links de internet, com alertas automáticos."
+    },
+    {
+      "id": 6,
+      "nome": "Gestão de Backup em Nuvem",
+      "categoria": "Nuvem",
+      "nivel": "Intermediário",
+      "descricao": "Configuração e monitoramento de backups automáticos em ambientes AWS, Azure ou GCP."
+    },
+    {
+      "id": 7,
+      "nome": "Migração para a Nuvem",
+      "categoria": "Nuvem",
+      "nivel": "Avançado",
+      "descricao": "Planejamento e migração de aplicações e dados para provedores cloud como AWS, GCP e Azure."
+    },
+    {
+      "id": 8,
+      "nome": "Gestão de Banco de Dados SQL",
+      "categoria": "Banco de Dados",
+      "nivel": "Avançado",
+      "descricao": "Administração, tuning, backups e provisionamento de bancos SQL Server, PostgreSQL e MySQL."
+    },
+    {
+      "id": 9,
+      "nome": "Desenvolvimento de API",
+      "categoria": "Desenvolvimento",
+      "nivel": "Intermediário",
+      "descricao": "Criação de APIs RESTful ou GraphQL com autenticação, documentação e boas práticas."
+    },
+    {
+      "id": 10,
+      "nome": "Desenvolvimento Front-end",
+      "categoria": "Desenvolvimento",
+      "nivel": "Intermediário",
+      "descricao": "Criação de interfaces modernas com React, Next.js, Tailwind e componentes reutilizáveis."
+    },
+    {
+      "id": 11,
+      "nome": "Desenvolvimento Back-end",
+      "categoria": "Desenvolvimento",
+      "nivel": "Avançado",
+      "descricao": "Arquitetura robusta com Node.js, .NET, ou Java seguindo princípios de Clean Architecture."
+    },
+    {
+      "id": 12,
+      "nome": "Consultoria em Segurança da Informação",
+      "categoria": "Segurança",
+      "nivel": "Avançado",
+      "descricao": "Análise de vulnerabilidades, testes de segurança e recomendações de mitigação."
+    },
+    {
+      "id": 13,
+      "nome": "Gerenciamento de Firewall",
+      "categoria": "Segurança",
+      "nivel": "Intermediário",
+      "descricao": "Configuração e manutenção de regras de firewall, VPNs e inspeções de tráfego."
+    },
+    {
+      "id": 14,
+      "nome": "Implantação de Sistemas ERP",
+      "categoria": "Consultoria",
+      "nivel": "Avançado",
+      "descricao": "Parametrização, integração e treinamento para sistemas ERP corporativos."
+    },
+    {
+      "id": 15,
+      "nome": "Serviços de DevOps",
+      "categoria": "DevOps",
+      "nivel": "Avançado",
+      "descricao": "Pipelines CI/CD, automação de deploy, containers, Kubernetes e monitoramento."
+    },
+    {
+      "id": 16,
+      "nome": "Desenvolvimento Mobile",
+      "categoria": "Desenvolvimento",
+      "nivel": "Intermediário",
+      "descricao": "Apps Android/iOS com React Native ou Flutter, integração com APIs e notificações."
+    },
+    {
+      "id": 17,
+      "nome": "Virtualização de Servidores",
+      "categoria": "Infraestrutura",
+      "nivel": "Intermediário",
+      "descricao": "Criação e gerenciamento de máquinas virtuais com VMware, Hyper-V ou Proxmox."
+    },
+    {
+      "id": 18,
+      "nome": "Consultoria em Redes",
+      "categoria": "Consultoria",
+      "nivel": "Intermediário",
+      "descricao": "Diagnóstico, design e otimização de redes corporativas."
+    },
+    {
+      "id": 19,
+      "nome": "Suporte Remoto Ilimitado",
+      "categoria": "Suporte",
+      "nivel": "Básico",
+      "descricao": "Atendimento remoto para resolução de problemas, atualizações e orientações técnicas."
+    },
+    {
+      "id": 20,
+      "nome": "Testes de Software e QA",
+      "categoria": "Qualidade",
+      "nivel": "Intermediário",
+      "descricao": "Criação e execução de casos de teste, testes automatizados e relatório de bugs."
+    }
+  ]
+}
